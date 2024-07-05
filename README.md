@@ -8,4 +8,3 @@ Bot battle repo for SYNCS 2024
 - Rory
 - John
 - Oliver
-AKA JORD
