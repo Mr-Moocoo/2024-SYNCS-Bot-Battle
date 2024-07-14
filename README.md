@@ -8,3 +8,7 @@ Bot battle repo for SYNCS 2024
 - Rory
 - John
 - Oliver
+
+# Github repo
+main.py: The bot source code.
+Syncs Report.txt: The report for the code.
