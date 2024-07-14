@@ -1,0 +1,8 @@
+Team: What is a pythong?
+
+Our strategy started with Australia. Offering the highest yield of 2 troops for 4 territories and only 1 point of entry, we figured Australia would be the optimal starting location for a consistent all be it low income of troops. 
+Once established our goal was to be hyper aggressive. In risk the player that attacks first has the advantage of better odds. With this in mind we tried to attack whenever we had more troops, targeting the weakest player to secure card bonuses.
+
+Improvements we could have made would be to implement a path finding algorithm to find the cheapest path, or to find a route that attacks the most territories and claims the most area.
+
+We also had an issue where our bot would stack up a large number of troops in western Australia where they were of no use. This should have been fixed for better performance.
